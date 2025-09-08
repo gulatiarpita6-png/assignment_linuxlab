@@ -49,7 +49,7 @@ echo "Done!"
 <img width="588" height="251" alt="image" src="https://github.com/user-attachments/assets/0b9ca94e-9e42-4196-b703-4d1ca9235931" />
 
 
-### 2. 2. Script: array_loop.sh
+# **2. Script: array_loop.sh**
 
 **Purpose:**
 To demonstrate how to store multiple values in an array and display them using a for loop.

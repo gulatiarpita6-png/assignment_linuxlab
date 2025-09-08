@@ -99,3 +99,6 @@ step 2. ./file.sh	//Run the script.
 
 step 3. ls -l	//Check file permissions
 
+<img width="588" height="251" alt="image" src="https://github.com/user-attachments/assets/18bb1ce1-5139-4162-be84-75938721e492" />
+
+
